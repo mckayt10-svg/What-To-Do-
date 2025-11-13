@@ -1,0 +1,5 @@
+{
+  "name": "What To Do?",
+  "description": "An intelligent activity planner that transforms your intent into a curated list of local activities. It acts as a personal concierge to help you find the best way to spend your time and money, with an AI chatbot to refine results.",
+  "requestFramePermissions": []
+}
